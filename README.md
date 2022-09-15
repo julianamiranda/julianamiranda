@@ -4,7 +4,6 @@
   <samp>
     My name is <em>Juliana</em>. I am a Fullstack  Developer Student!
           <br/>
-continuously learning, wanting to help the community
   </samp>
   <br/>
   <br/>
