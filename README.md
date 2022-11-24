@@ -2,7 +2,7 @@
 
 <p align="center" >
   <samp>
-   My name is <em>Juliana</em>. I am a Fullstack  Developer Student at Trybe! I started in the support and infrastructure area and today I rediscover myself as a developer. I am always open to learning, teaching and talking about any topic.
+   My name is <em>Juliana</em>. I am a Fullstack  Developer Student at Trybe! I started in the support and infrastructure area and today I rediscovered myself as a developer. I am always open to learning, teaching and talking about any topic.
   </samp>
   <br/>
 </p>
