@@ -11,6 +11,7 @@
 </p>
 
 ### <img src="https://raw.githubusercontent.com/alexnaiman/alexnaiman/master/resources/Confused_Dog.gif" height="50px" /> I’m currently learning ...
+- <img src="https://cdn-icons-png.flaticon.com/512/2166/2166823.png" width="30px" /> Back-end
 - <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/typescript_original_logo_icon_146317.png" width="30px" /> TypeScript
 - <img src="https://cdn4.iconfinder.com/data/icons/technology-83/1000/object_programming_development_oriented_developer_object-oriented_programming_software-512.png" height="30px" /> Object-Oriented Programming (OOP)
 
